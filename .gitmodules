@@ -1,15 +1,9 @@
 [submodule "luci-app-usb3disable"]
 	path = luci-app-usb3disable
 	url = https://github.com/rufengsuixing/luci-app-usb3disable.git
-[submodule "luci-theme-design"]
-	path = luci-theme-design
-	url = https://github.com/0x676e67/luci-theme-design.git
 [submodule "luci-app-subcoverter"]
 	path = luci-app-subcoverter
 	url = https://github.com/0x2196f3/luci-app-subconverter
-[submodule "luci-app-quickstart"]
-	path = luci-app-quickstart
-	url = https://github.com/animegasan/luci-app-quickstart
 [submodule "luci-app-istore"]
 	path = luci-app-istore
 	url = https://github.com/linkease/istore.git
